@@ -26,4 +26,4 @@
 
 ---
 
-[Next(準備中)](../README.md)
+[Next](lab01.md)
