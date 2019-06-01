@@ -70,7 +70,7 @@
     methods: {
       // （途中省略）
       // 2. クラスとスタイルのバインディング制御用イベントハンドラを追加します
-      showDetail(): void {
+      raiseError(): void {
         this.hasError = true;
       }
     }
