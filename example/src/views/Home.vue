@@ -44,7 +44,7 @@
 import Vue from "vue";
 
 // Itemの定義
-declare interface Item {
+type Item = {
   id: number;
   name: string;
 }

@@ -56,7 +56,7 @@ export default Vue.extend({
 });
 
 // NoteBook型の定義
-declare interface NoteBook {
+type NoteBook = {
   id: number;
   brand: string;
   name: string;
