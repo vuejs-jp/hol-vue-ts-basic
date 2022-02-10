@@ -17,7 +17,7 @@
     "@vue/cli-plugin-typescript": "^3.6.0",
     "@vue/cli-service": "^3.6.0",
     "axios": "^0.21.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.0.3",
     "typescript": "^3.4.3",
     "vue-cli-plugin-axios": "^0.0.4",
